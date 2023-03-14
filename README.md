@@ -8,7 +8,7 @@
 />
 
 <p align="left">
-  Hello, I'm Joey, an aspiring web developer. Currently working with
+  Hello, I'm Joey, an aspiring web developer currently working with
   <strong>ReactJS, TypeScript, and Node.js</strong>.<br />
   Right now, I'm completing a Kotlin app.
 </p>
